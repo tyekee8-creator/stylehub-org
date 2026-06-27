@@ -7,6 +7,7 @@ StyleHub.org: An E-Commerce Web Application for Fashion and Apparel
 Student Information
 
 Name: Thomas S. Yekee
+Reg NO: 22238/2023
 
 Course: E-Commerce and Web Application
 
